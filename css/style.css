@@ -262,10 +262,10 @@ body {
   display: inline-block;
 }
 .button1{
-  background-color: green;
+  background-color: rgba(210, 116, 116, 0.84);
 }
 .button2{
-  background-color: red;
+  background-color: rgba(210, 116, 116, 0.84);
 }
 .display-text{
   text-align: center;
